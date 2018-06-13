@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name": "Diamondbacks",
+        "image":"https://seeklogo.com/images/A/arizona-diamondbacks-logo-41A0AF823D-seeklogo.com.png"
+    },
+    {
+        "id":2,
+        "name": "Braves",
+        "image":"https://www.seeklogo.net/wp-content/uploads/2016/06/Atlanta-Braves-logo-vector-download.png"
+    },
+    {
+        "id":3,
+        "name": "Mariners",
+        "image":"https://s3.amazonaws.com/freebiesupply/large/2x/seattle-mariners-s-logo.png"
+    },
+    {
+        "id":4,
+        "name": "Cardinals",
+        "image":"http://assets.stickpng.com/thumbs/580b585b2edbce24c47b2aff.png"
+    },
+    {
+        "id":5,
+        "name": "Orioles",
+        "image":"https://s3.amazonaws.com/freebiesupply/large/2x/baltimore-orioles-logo-transparent.png"
+    },
+    {
+        "id":6,
+        "name": "Tigers",
+        "image":"https://s3.amazonaws.com/freebiesupply/large/2x/detroit-tigers-logo-transparent.png"
+    },
+    {
+        "id":7,
+        "name": "Angels",
+        "image":"https://s3.amazonaws.com/freebiesupply/thumbs/2x/los-angeles-angels-logo.png"
+    },
+    {
+        "id":8,
+        "name": "Dodgers",
+        "image":"https://s3.amazonaws.com/freebiesupply/large/2x/los-angeles-dodgers-logo-transparent.png"
+    },
+    {
+        "id":9,
+        "name": "Cubs",
+        "image":"https://s3.amazonaws.com/freebiesupply/large/2x/chicago-cubs-bear-logo.png"
+    },
+    {
+        "id":10,
+        "name": "Red Sox",
+        "image":"https://seeklogo.com/images/B/boston-red-sox-logo-21F446678F-seeklogo.com.png"
+    },
+    {
+        "id":11,
+        "name": "Yankees",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/4/45/Yankees_logo.svg"
+    },
+    {
+        "id":12,
+        "name": "A's",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/2000px-Oakland_A%27s_logo.svg.png"
+    }
+]

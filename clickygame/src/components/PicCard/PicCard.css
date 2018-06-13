@@ -1,0 +1,12 @@
+.click-card {
+    height: 200px;
+    width: 200px;
+    margin: 0.5rem;
+    background-image: url("https://images.homedepot-static.com/productImages/d318e19a-6ccb-4bea-8128-1dfb6a65893a/svn/brazilwood-wilsonart-countertop-samples-mc-2x3794638-64_1000.jpg");
+    padding: 5px;
+}
+
+.card-img-top {
+    height: 100%;
+    width: auto;
+}
