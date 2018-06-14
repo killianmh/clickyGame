@@ -1,3 +1,25 @@
-.nav {
+.navbar {
     height: 80px;
+    background-color: rgb(49,50,54);
+    box-shadow: 0px 8px 5px rgba(0, 0, 0, 0.4);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.pg-title {
+    font-size: 30px;
+}
+
+.msg {
+    font-size: 18px;
+}
+
+.score {
+    font-size: 20px;
 }

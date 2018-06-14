@@ -3,3 +3,7 @@
     width: 60%;
     margin: auto;
 }
+
+a:hover {
+    cursor: pointer;
+}

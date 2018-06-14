@@ -1,5 +1,6 @@
 .jumbotron {
-    background-image: url("https://www.publicdomainpictures.net/pictures/20000/velka/grass-background.jpg");
+    margin-top: 79px;
+    background-image: url("https://cdn.lawnlove.com/images/baseball-field-1548348_960_720.jpg");
     background-size: cover;
     background-position: bottom;
 }
